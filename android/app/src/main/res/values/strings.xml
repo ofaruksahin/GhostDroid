@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GhostDroid</string>
+    <string name="service_name">GhostDroid Service</string>
+    <string name="notification_listener_service">GhostDroid Listener Service</string>
+    <string name="notification_listener_service_explanation">Enable it now?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
